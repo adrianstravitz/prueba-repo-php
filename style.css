@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+}
+
+header{
+    background-color: hsl(32, 100%, 50%);
+    color:#173f62;
+    font-size: 15px;
+    width: 99%;
+    height: 300px;
+    margin: 5px;
+}
+
+main{
+    width: 100%;
+    background-color: rgb(88, 11, 19) ;
+}
+
+h2{
+    color:#8add0d;
+    font-size: 20px;
+}
+a{
+    color: white;
+}
+section{
+    background: #c80000;
+    color: white;
+    font-size: 15px;
+}
+footer{
+   background-color: hwb(13 2% 4%);
+   color: rgb(18, 51, 215);
+   font-size: 15px;  
+}
